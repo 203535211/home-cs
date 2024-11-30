@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "LaptopCode",
+    "name": "网络面板",
+    "link": "https://net.52zzs.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "无名网盘",
+    "link": "https://wp.52zzs.cn/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.52zzs.cn/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://www.52zzs.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "无名号卡",
+    "link": "https://www.52zzs.cn/"
+  },
+  {
+    "icon": "Blog",
+    "name": "API",
+    "link": "https://api.52zzs.cn/"
+  }
+]
